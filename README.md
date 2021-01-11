@@ -17,7 +17,9 @@ The dataset collects data from a wearable accelerometer mounted on the chest. Un
 |  7 |             Talking while Standing            |
 
 
-Submission: Submission.ipynb
+## requirements.txt : Recommended touse Anaconda
+
+## Submission: Submission.ipynb
 
 
 #### Achived Accuracy:
